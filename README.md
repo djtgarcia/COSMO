@@ -1,1 +1,1 @@
-# introse-s23-g2
+# INTROSE-S23-G2
